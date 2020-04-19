@@ -1,5 +1,4 @@
 //Tempurature Challenge
-//3/27/2018
 //Author: Camren Carter
 //Date: 4/18/2020
 
@@ -7,6 +6,7 @@
 #include<string>
 #include<cctype>
 using namespace std;
+
 void Celsius() {
 	double temp1, temp2, temp3;
 	double eight, twelve, five;
